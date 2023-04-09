@@ -1,0 +1,3 @@
+aiohttp==3.8.4
+EdgeGPT==0.0.60
+pyTelegramBotAPI==4.10.0
